@@ -269,24 +269,17 @@ Have you used the theme on your website? Send a PR to add it to the list for ins
 	<tbody>
 		<tr>
             <td align="center">
+                <a href="https://github.com/KranthiPedamajji">
+                    <img src="https://avatars.githubusercontent.com/u/89507278?v=4" width="100;" alt="KranthiPedamajji"/>
+                    <br />
+                    <sub><b>KranthiPedamajji</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/zetxek">
                     <img src="https://avatars.githubusercontent.com/u/240085?v=4" width="100;" alt="zetxek"/>
                     <br />
                     <sub><b>Adrián Moreno Peña</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/mnordhaus">
-                    <img src="https://avatars.githubusercontent.com/u/1510804?v=4" width="100;" alt="mnordhaus"/>
-                    <br />
-                    <sub><b>mnordhaus</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/dcorto">
-                    <img src="https://avatars.githubusercontent.com/u/5486937?v=4" width="100;" alt="dcorto"/>
-                    <br />
-                    <sub><b>D. Corto</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -304,6 +297,13 @@ Have you used the theme on your website? Send a PR to add it to the list for ins
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/n0rthdev">
+                    <img src="https://avatars.githubusercontent.com/u/7472943?v=4" width="100;" alt="n0rthdev"/>
+                    <br />
+                    <sub><b>Martin Weber</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/fhinok">
                     <img src="https://avatars.githubusercontent.com/u/22161574?v=4" width="100;" alt="fhinok"/>
                     <br />
@@ -313,6 +313,13 @@ Have you used the theme on your website? Send a PR to add it to the list for ins
 		</tr>
 		<tr>
             <td align="center">
+                <a href="https://github.com/dcorto">
+                    <img src="https://avatars.githubusercontent.com/u/5486937?v=4" width="100;" alt="dcorto"/>
+                    <br />
+                    <sub><b>D. Corto</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/martinsam">
                     <img src="https://avatars.githubusercontent.com/u/34697?v=4" width="100;" alt="martinsam"/>
                     <br />
@@ -320,17 +327,17 @@ Have you used the theme on your website? Send a PR to add it to the list for ins
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/oaksakal">
-                    <img src="https://avatars.githubusercontent.com/u/453038?v=4" width="100;" alt="oaksakal"/>
-                    <br />
-                    <sub><b>Ozgur Aksakal</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/raulalmeidatarazona">
                     <img src="https://avatars.githubusercontent.com/u/61455658?v=4" width="100;" alt="raulalmeidatarazona"/>
                     <br />
                     <sub><b>Raul Almeida</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/oaksakal">
+                    <img src="https://avatars.githubusercontent.com/u/453038?v=4" width="100;" alt="oaksakal"/>
+                    <br />
+                    <sub><b>Ozgur Aksakal</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -347,6 +354,8 @@ Have you used the theme on your website? Send a PR to add it to the list for ins
                     <sub><b>Brandyn</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/ericreid">
                     <img src="https://avatars.githubusercontent.com/u/16538?v=4" width="100;" alt="ericreid"/>
@@ -354,8 +363,6 @@ Have you used the theme on your website? Send a PR to add it to the list for ins
                     <sub><b>Eric Reid</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/BangKarlsen">
                     <img src="https://avatars.githubusercontent.com/u/1835444?v=4" width="100;" alt="BangKarlsen"/>
@@ -375,13 +382,6 @@ Have you used the theme on your website? Send a PR to add it to the list for ins
                     <img src="https://avatars.githubusercontent.com/u/68392977?v=4" width="100;" alt="lukasulc"/>
                     <br />
                     <sub><b>Luka Šulc</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/n0rthdev">
-                    <img src="https://avatars.githubusercontent.com/u/7472943?v=4" width="100;" alt="n0rthdev"/>
-                    <br />
-                    <sub><b>Martin Weber</b></sub>
                 </a>
             </td>
             <td align="center">
